@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "design-systems": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "skillPath": "design-systems/SKILL.md",
+      "computedHash": "21e2a57824613d393b5af54e3e93c1e36d188a39d213d8a2233bf90b9b5fe269"
+    }
+  }
+}
